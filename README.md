@@ -11,25 +11,44 @@
 Используемые зависимости: 
 
 Python           : 3.8.6
+
 numpy            : 1.20.0
+
 pandas           : 1.2.1
+
 matplotlib       : 3.3.4
+
 opencv           : 3.4.9
+
 seaborn          : 0.11.1
+
 scikit-learn     : 1.1.1
+
 scikit-image     : 0.16.2
+
 torch            : 1.10.1
+
 pysptools        : 0.15.0
 
 И для jupyter notebook:
 
 jupyter core     : 4.7.1
+
 jupyter-notebook : 6.2.0
+
 qtconsole        : 5.0.2
+
 ipython          : 7.19.0
+
 ipykernel        : 5.4.2
+
 jupyter client   : 6.1.11
+
 nbconvert        : 6.0.7
+
 ipywidgets       : 7.6.3
+
 nbformat         : 5.1.2
+
 traitlets        : 5.0.5
+
